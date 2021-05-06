@@ -5,7 +5,7 @@
 
 https://augusto-dsvendas-sds3.netlify.app
 
-DSVendas é uma aplicação full stack web e mobile construída durante a 3ª edição da **Semana DevSuperior - Spring React** , evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DSVendas é uma aplicação full stack web e mobile construída durante a 3ª edição da **Semana Spring React** , evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um dashboard, onde os dados são apresentados de forma contínua, automatizada e paginada.
 
@@ -69,6 +69,4 @@ yarn start
 
 # Autor
 
-Augusto César
-
-https://www.linkedin.com/in/augusto-cesar-fn/
+[![Linkedin Badge](https://img.shields.io/badge/augusto&nbsp;cesar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-cesar-fn/)
