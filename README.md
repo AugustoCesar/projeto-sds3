@@ -10,11 +10,10 @@ DSVendas é uma aplicação full stack web e mobile construída durante a 3ª ed
 A aplicação consiste em um dashboard, onde os dados são apresentados de forma contínua, automatizada e paginada.
 
 ## Layout mobile
-![Mobile 1](https://github.com/AugustoCesar/assets/blob/main/sds3/mobile01.png) ![Mobile 2](https://github.com/AugustoCesar/assets/blob/main/sds3/mobile02.png)
+![Mobile 1](https://github.com/AugustoCesar/assets/blob/main/sds3/mobile.gif)
 
 ## Layout web
-![Web 1](https://github.com/AugustoCesar/assets/blob/main/sds3/desktop01.png)
-
+![Web 1](https://github.com/AugustoCesar/assets/blob/main/sds3/desktop.gif)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/AugustoCesar/assets/blob/main/sds3/sds3-mc.png)
